@@ -1,0 +1,1 @@
+//nao da pra fazer pois usa boolen e boolean n existe com tipo primitivo em c
